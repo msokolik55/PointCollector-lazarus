@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="10"/>
+    <BuildModes Active="Default"/>
+    <Units Count="2">
+      <Unit0>
+        <Filename Value="zadanie_2.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="3"/>
+        <CursorPos X="18" Y="31"/>
+        <FoldState Value=" T3A0BJ"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="C:\lazarus\fpc\3.0.4\source\packages\rtl-console\src\inc\crth.inc"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="24"/>
+        <CursorPos X="17" Y="90"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit1>
+    </Units>
+    <JumpHistory Count="9" HistoryIndex="8">
+      <Position1>
+        <Filename Value="zadanie_2.lpr"/>
+        <Caret Line="45" Column="37" TopLine="21"/>
+      </Position1>
+      <Position2>
+        <Filename Value="zadanie_2.lpr"/>
+        <Caret Line="39" Column="9" TopLine="29"/>
+      </Position2>
+      <Position3>
+        <Filename Value="zadanie_2.lpr"/>
+        <Caret Line="35" Column="12" TopLine="21"/>
+      </Position3>
+      <Position4>
+        <Filename Value="zadanie_2.lpr"/>
+        <Caret Line="36" Column="14" TopLine="22"/>
+      </Position4>
+      <Position5>
+        <Filename Value="zadanie_2.lpr"/>
+        <Caret Line="89" Column="30" TopLine="74"/>
+      </Position5>
+      <Position6>
+        <Filename Value="zadanie_2.lpr"/>
+        <Caret Line="82" Column="23" TopLine="68"/>
+      </Position6>
+      <Position7>
+        <Filename Value="zadanie_2.lpr"/>
+        <Caret Line="152" Column="33" TopLine="117"/>
+      </Position7>
+      <Position8>
+        <Filename Value="zadanie_2.lpr"/>
+        <Caret Line="22" Column="23" TopLine="9"/>
+      </Position8>
+      <Position9>
+        <Filename Value="zadanie_2.lpr"/>
+        <Caret Line="111" Column="27" TopLine="103"/>
+      </Position9>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>
